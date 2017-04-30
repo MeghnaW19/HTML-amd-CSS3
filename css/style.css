@@ -1,6 +1,7 @@
 body
 {
 background-image: url("../img/bck.jpg"); 	/*apply image to backgroung of body*/
+background-attachment: fixed;
 }
 
 header
@@ -112,7 +113,8 @@ a:hover
 	
 .container_12
 {
-	background-image: url("../img/secbck.jpg");		  		
+	background-image: url("../img/secbck.jpg");	
+		  		
 }
 
 #sec5
