@@ -57,6 +57,10 @@ nav ul a                  					 /*apply styling to links of nav tag*/
 	font-size: 20px;
 }
 
+a
+{
+	color: purple;  							/*change color when the mouse is over the link*/
+}
 
 a:hover
 {
